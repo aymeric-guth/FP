@@ -2,3 +2,5 @@
 /data
 .tmuxp.yaml
 .func.sh
+.venv
+.git
