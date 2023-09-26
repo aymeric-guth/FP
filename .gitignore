@@ -1,3 +1,4 @@
 *.pdf
 /data
 .tmuxp.yaml
+.func.sh
