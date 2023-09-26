@@ -4,3 +4,5 @@
 .func.sh
 .venv
 .git
+js-fp-skeleton
+node_modules
