@@ -26,3 +26,5 @@ const teamB = [false, false, false];
 
 makeShot(teamA, randomSeed(42));
 console.log(gameOver(teamA, teamB));
+
+(() => {})();
